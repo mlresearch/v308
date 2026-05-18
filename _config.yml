@@ -1,0 +1,98 @@
+---
+booktitle: Proceedings of the First Workshop on NeuroAI Multimodal Intelligence @
+  AAAI 2026
+shortname: NeuroAI
+year: '2026'
+volume: '308'
+start: &1 2026-01-27
+end: 2026-01-27
+published: 2026-05-18
+conference_number: '39'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: pmlr-v308
+month: 0
+cycles: false
+bibtex_editor: Abbasi-Asl, Reza and Iqbal, Asim and Ito, Shinya and Arkhipov, Anton
+  and Sanborn, Sophia
+editor:
+- given: Reza
+  family: Abbasi-Asl
+- given: Asim
+  family: Iqbal
+- given: Shinya
+  family: Ito
+- given: Anton
+  family: Arkhipov
+- given: Sophia
+  family: Sanborn
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the First Workshop on NeuroAI Multimodal Intelligence @ AAAI 2026
+    Held in Singapore on 27 January 2026
+
+  Published as Volume 308 by the Proceedings of Machine Learning Research on 18 May 2026.
+
+  Volume Edited by:
+    Reza Abbasi-Asl
+    Asim Iqbal
+    Shinya Ito
+    Anton Arkhipov
+    Sophia Sanborn
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 27 Jan
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v308"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v308
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v308
+email: ''
+conference:
+  name: 'Neuro for AI & AI for Neuro: Towards Multi-Modal Natural Intelligence'
+  url: https://aaai.org/conference/aaai/aaai-26/workshop-program-list/#ws39
+  location: Singapore
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: NeuroAI2026_clean.bib
+# Site settings
+# Original source:  NeuroAI2026_clean.bib
