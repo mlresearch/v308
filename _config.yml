@@ -4,7 +4,7 @@ booktitle: Proceedings of the First Workshop on NeuroAI Multimodal Intelligence 
 shortname: NeuroAI
 year: '2026'
 volume: '308'
-start: &1 2026-01-27
+start: 2026-01-27
 end: 2026-01-27
 published: 2026-05-18
 conference_number: '39'
@@ -80,7 +80,7 @@ conference:
   url: https://aaai.org/conference/aaai/aaai-26/workshop-program-list/#ws39
   location: Singapore
   dates:
-  - *1
+  - 2026-01-27
 analytics:
   google:
     tracking_id: UA-92432422-1
